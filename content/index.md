@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Skeleton Book - Gamification Concepts
 ---
 
-This is a blank Quartz installation.
+This was made with Quartz.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
