@@ -105,8 +105,12 @@ These usually provide an isometric view of the game.
 
 Sub-genres include Real-Time Strategy (RTS), Tower Defense, MOBA and Wargames.
 
-
-
+- Characteristics
+	- Player is given a god-like top-down view of the world and indirect control of a large number of characters and resources
+- Player Challenges
+	- Challenges thinking, rationalising, theorising, problem-solving and planning.
+- Gameplay Emphasis
+	- Emphasis on non-trivial choices that require careful and skillful thinking and planning.
 
 
 ### Adventure
@@ -136,12 +140,11 @@ Sub-genres include Visual Novels (Danganronpa).
 Emphasis on character development. This one has it's focus on usually a single character who develops through the story as you go along and increases inventory, wealth or combat skills along the way.
 
 - Characteristics
-	- Player is given a god-like top-down view of the world and indirect control of a large number of characters and resources
-- Player Challenges
-	- Challenges thinking, rationalising, theorising, problem-solving and planning.
-- Gameplay Emphasis
-	- Emphasis on non-trivial choices that require careful and skillful thinking and planning.
-
+	- Traditional RPGs include a turn-based combat system and a fantasy setting
+	- Today, many RPGs favor real-time, action-based combat
+	- There are 2 distinct sub-genres
+		- Western RPGs favor free exploration and player-made decisions
+		- Japanese RPGs are more focused on a linear storyline
 
 
 
