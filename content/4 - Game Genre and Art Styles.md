@@ -145,6 +145,11 @@ Emphasis on character development. This one has it's focus on usually a single c
 	- There are 2 distinct sub-genres
 		- Western RPGs favor free exploration and player-made decisions
 		- Japanese RPGs are more focused on a linear storyline
+- Player Challenges
+	- Challenges the player's ability in structured decision-making where actions taken leads to either success or failure, according to game rules
+- Gameplay Emphasis
+	- Emphasis on character development, where one or more characters are created and shaped by the player
+	- Characters embark on a series of events that increase inventory, strength, power or wealth.
 
 
 
